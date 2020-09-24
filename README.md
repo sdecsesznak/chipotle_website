@@ -9,7 +9,7 @@
 * Free and Easy setup
 * No Coding Required
 * Compatible with [Github Pages](https://pages.github.com/)
-* Responsive and Blogging Ready
+* Responsive and blogging Ready
 * HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
 * Minified CSS using SaSS
 * CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)

@@ -29,7 +29,7 @@ tags:
 The contact section will also include 10 different social media buttons for your audience to follow.<br>
 `Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
 
-### Blog -
+### blog -
 The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
 The blog card includes
 * Post Title
