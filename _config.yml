@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'confessionsofachipotleaddict.com'
+url: ""
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -24,7 +24,7 @@ heroimage: https://www.thebannettgroup.com/wp-content/uploads/2017/10/Chipotle-0
 # If you don't want to use any icon, you can leave them blank.
 email: guaconmyface@gmail.com
 facebook_username: /
-twitter_username: /
+#twitter_username: /
 instagram_username: /
 linkedin_username: /
 github_username:  /
@@ -35,17 +35,17 @@ dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
 
 # Disqus
 # disqus-shortname: ChipotleAddict
 
 # Name of the Author
-author-name: Alex
+author-name: Steven
 # URL for the Image of the Author
 author-image: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 # 60 Words About the Author
-author-about: Hi, ny name is Alex and I am a Chipotle Addict.  In an effort to advance my campaign in unlocking Chipotle's VIP card, I have put together this website to document my efforts.  
+author-about: Hi, ny name is Steven and I am a Chipotle Addict.  In an effort to advance my campaign in unlocking Chipotle's VIP card, I have put together this website to document my efforts.  
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/sdeCsesznak
 
