@@ -18,9 +18,7 @@ site-keywords: Chipotle, Addict, Guacamole, Extra Meat, Chips and Salsa
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/sdecsesznak/sdecsesznak.github.io/raw/master/assets/images/IMG_4456.png
-# https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-#https://github.com/sdecsesznak/sdecsesznak.github.io/raw/master/assets/images/Cover.png
+heroimage: https://github.com/sdecsesznak/sdecsesznak.github.io/raw/master/assets/images/Front_Page.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -37,7 +35,7 @@ dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-# google-analytics: UA-163806439-1
+google-analytics: UA-179038535-1
 
 # Disqus
 # disqus-shortname: ChipotleAddict
@@ -47,7 +45,7 @@ author-name: Steven
 # URL for the Image of the Author
 author-image: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 # 60 Words About the Author
-author-about: Hi, ny name is Steven and I am a Chipotle Addict.  In an effort to advance my campaign in unlocking Chipotle's VIP card, I have put together this website to document my efforts.  
+author-about: Hi, ny name is Steven and I am a Chipotle Addict.  In an effort to advance my campaign in unlocking Chipotle's VIP card, I have put together this website to document the letters that I write to Chipotle.  
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/sdeCsesznak
 
@@ -62,7 +60,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "campaign/:title"
+permalink: "letter/:title"
 
 # Compress
 compress_html:
